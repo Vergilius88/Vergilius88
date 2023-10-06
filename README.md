@@ -50,4 +50,4 @@ I am a Full Stack JavaScript Developer.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vergilius88&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vergilius88&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
