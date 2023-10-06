@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="150"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ihor-nikolaienko-2b0a1a1a5/" target=”_blank” align="center">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ihor-nikolaienko-2b0a1a1a5/" target=”_blank” >
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fihor-nikolaienko-2b0a1a1a5%2F" alt="LinkedIn Badge"/>
   </a>
 </div>
