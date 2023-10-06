@@ -40,6 +40,7 @@ I am a Full Stack JavaScript Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/content/logo-dark.svg"  title="Wagmi" alt="Wagmi" width="60" height="40"/>&nbsp;
+   <img src="https://1000logos.net/wp-content/uploads/2022/05/WalletConnect-Logo.png"  title="WConect" alt="WConnect" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
