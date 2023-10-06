@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="75"/>
 </div>
 <div id="header" align="center">
    <a href="https://www.linkedin.com/in/ihor-nikolaienko-2b0a1a1a5/" target=”_blank” >
