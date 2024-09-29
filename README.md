@@ -15,9 +15,7 @@
 
 I am a Full Stack JavaScript Developer.
 
-- 🔭 I'm currently creating a web3 project.
-- 🌱 I’m currently learning Canvas3d & GOlang.
-- 🤔 I'm looking for interesting projects.
+- 🔭 I'm looking for interesting projects.
 
 ### :hammer_and_wrench: Languages and Tools :
 
